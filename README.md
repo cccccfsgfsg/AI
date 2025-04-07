@@ -152,7 +152,7 @@ exports.submitAnswer = async (req, res) => {
 
 ---
 
-Работа с OpenAI API
+Работа с OpenAI API(GIGACHAT) - Настройка может отличаться, надо смотреть документацию к API на оф. сайте!
 
 ```js
 const axios = require('axios');
