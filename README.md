@@ -1,3 +1,5 @@
+Будут дополнения к проекту (в процессе)
+
 
 AI Learning Quiz API (Node.js + OpenAI/GIGACHAT + PostgreSQL)
 
